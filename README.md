@@ -5,8 +5,11 @@
 ### 1. SSH spajanje na studentski poslužitelj
 
 Host: studenti.sum.ba
+
 Username: fpmozXXYYYY
+
 Password: csgiditalYYYY
+
 Port: 22
 
 *(XX broj grupe, YYYY godina)
@@ -34,3 +37,13 @@ Pa zatim prethodnu naredbu
 https://studenti.sum.ba/projekti/fpmoz/YYYY/gX
 
 npr. https://studenti.sum.ba/projekti/fpmoz/2021/g0/
+
+### Podaci za spajanje na bazu
+
+**Baza**: fpmozXXYYYY
+
+**Korisničko ime**: fpmozXXYYYY
+
+**Lozinka**: csdigital2021
+
+*(XX broj grupe, YYYY godina)
